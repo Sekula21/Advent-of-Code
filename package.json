@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions for **Advent of Code** — a yearly set of programming challenges released every December.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sekula21/Advent-of-Code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sekula21/Advent-of-Code/issues"
+  },
+  "homepage": "https://github.com/Sekula21/Advent-of-Code#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.2"
+  }
+}
