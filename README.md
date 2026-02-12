@@ -10,7 +10,7 @@ The goal of this repo is to practice problem-solving, improve algorithmic thinki
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 1 |
+| 🟢 Easy    | 2 |
 | 🟡 Normal  | 0 |
 | 🔴 Hard    | 0 |
 
